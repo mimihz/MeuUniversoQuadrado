@@ -54,7 +54,7 @@ fun MeuMundoQuadrado(){
              onClick = {
              resultado =(1..6).random()
              }
-         ) {
+       ) {
              Text(
                  text = "Girar"
              )
