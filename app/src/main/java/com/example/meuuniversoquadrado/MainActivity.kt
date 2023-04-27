@@ -56,7 +56,7 @@ fun MeuMundoQuadrado(){
              }
        ) {
              Text(
-                 text = "Girar"
+           eae      text = "Girar"
              )
          }
 
